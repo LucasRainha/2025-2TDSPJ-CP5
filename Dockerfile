@@ -1,3 +1,5 @@
+#se o lucas usar de novo lembrar do mvn package antes, para criar o artifact na pasta taget
+
 FROM openjdk:17-jdk-alpine
 
 WORKDIR /app

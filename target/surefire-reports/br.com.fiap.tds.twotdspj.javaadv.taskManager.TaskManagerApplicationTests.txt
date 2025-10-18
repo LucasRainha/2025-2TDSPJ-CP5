@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: br.com.fiap.tds.twotdspj.javaadv.taskManager.TaskManagerApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.129 s -- in br.com.fiap.tds.twotdspj.javaadv.taskManager.TaskManagerApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.661 s -- in br.com.fiap.tds.twotdspj.javaadv.taskManager.TaskManagerApplicationTests
